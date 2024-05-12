@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Message from CodeMaster",
+    "content": "Hey there! How's your coding project going? Need any help with debugging?",
+    "received": "10 minutes ago"
+  },
+  {
+    "title": "Message from SyntaxQueen",
+    "content": "I just found a cool new library! Let me know if you want to check it out together.",
+    "received": "2 hours ago"
+  },
+  {
+    "title": "Message from AlgorithmWizard",
+    "content": "Have you solved that tricky algorithm problem yet? Let's brainstorm some solutions!",
+    "received": "1 day ago"
+  }
+]
